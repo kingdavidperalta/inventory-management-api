@@ -85,7 +85,7 @@ InventoryManagementAPI/
 ## Installation
 Clone the repository:
 ```bash
-git clone https://github.com/kingdavidperalta/InventoryManagementAPI.git
+git clone https://github.com/kingdavidperalta/inventory-management-api.git
 ```
 Open the solution in **Visual Studio**.
 
